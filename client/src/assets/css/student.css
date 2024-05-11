@@ -1,0 +1,77 @@
+/* body {
+    font-family: "Poppins";
+}
+
+.details div {
+    padding-bottom: 0.25rem;
+    display: flex;
+    justify-content: space-between;
+} */
+
+#base .hide {
+    display: none;
+}
+
+#base .show {
+    display: block;
+}
+
+.inp-tab {
+    color: black;
+    background-color: #8b8b8b21;
+    padding: 3px 20px;
+    margin: 4px 2px;
+    font-size: 18px;
+    border: 1px solid #8b8b8b21;
+    text-align: center;
+    cursor: pointer;
+    font-family: Poppins, sans-serif;
+}
+
+.colour {
+    color: white;
+    background-image: linear-gradient(129deg, #ffa534 0%, #ff5221 100%);
+}
+
+.inp-tab:hover {
+    color: white;
+    background-image: linear-gradient(129deg, #ffa534 0%, #ff5221 100%);
+}
+
+
+/* .scroll-bar
+{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 125px;
+}
+.scroll-bar::-webkit-scrollbar
+{
+    width: 6px;
+}
+.scroll-bar::-webkit-scrollbar-track
+{
+    background-color: white;
+
+}
+.scroll-bar::-webkit-scrollbar-thumb
+{
+    background-color: #2c428f;
+}
+.scroll-bar::-webkit-scrollbar-thumb:hover
+{
+    background-color: rgb(244, 114, 66);
+} */
+
+/* Edit profile */
+/* .change-colour
+{
+    color: #2c428f;
+} */
+
+.profile-container {
+    background-color: #8EC5FC;
+    /* background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%); */
+
+    background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+}
